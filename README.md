@@ -4,12 +4,12 @@ A modern, minimalist todo application built with React and Redux Toolkit. Featur
 
 ## Features
 
-- ✨ Create and edit tasks
-- ✅ Mark tasks as complete/incomplete
-- 🔍 Filter tasks by status (All, Active, Completed)
-- 📊 Real-time statistics dashboard
-- 💫 Smooth animations and transitions
-- 📱 Fully responsive design
+- Create and edit tasks
+- Mark tasks as complete/incomplete
+- Filter tasks by status (All, Active, Completed)
+- Real-time statistics dashboard
+- Smooth animations and transitions
+- Fully responsive design
 
 ## Freamworks and tool and packages used
 
